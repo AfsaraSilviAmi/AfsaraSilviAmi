@@ -1,3 +1,4 @@
+<img src="MyGithubBanner.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Afsara Silvi Ami</h1>
 <h3 align="center">💻 Aspiring Web Developer | CSE Student from Bangladesh</h3>
 
