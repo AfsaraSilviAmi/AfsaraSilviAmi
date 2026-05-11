@@ -3,7 +3,10 @@
 <h3 align="center">💻 Aspiring Web Developer | CSE Student from Bangladesh</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;PHP+%26+MySQL+Developer;Next.js+%26+MongoDB+ Developer;Building+Real+World+Projects" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;PHP+%26+MySQL+Developer;Next.js+%26+MongoDB+Developer;Building+Real+World+Projects" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
