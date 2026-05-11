@@ -51,8 +51,19 @@
 ---
 
 ### 🚀 Featured Projects
-- 🏥 **DigiTools** (HTML, Tailwind CSS, DaisyUi, JS(ES6), React)
-- 🍱 **English Janala** (HTML, Tailwind CSS, JS, DOM)
-- 📚**Payoo Mobile App** (HTML, Tailwind CSS, JS, DOM)
 
+- 🖼️ **Tiles Gallery**  
+  HTML5, Tailwind CSS, Next.js, HeroUI, BetterAuth
+
+- 👤 **Kin Keeper**  
+  HTML%, Tailwind CSS, DaisyUI, React
+
+- 🏥 **DigiTools**  
+  HTML, Tailwind CSS, DaisyUI, JavaScript (ES6), React
+
+- 🍱 **English Janala**  
+  HTML, Tailwind CSS, JavaScript, DOM
+
+- 📚 **Payoo Mobile App**  
+  HTML, Tailwind CSS, JavaScript, DOM
 ---
