@@ -55,6 +55,9 @@
 
 ### 🚀 Featured Projects
 
+- 🖼️ **AimArena - A full-stack Sports Facility Booking Platform**  
+  HTML5, Tailwind CSS, Next.js, HeroUI, BetterAuth, MongoDB, Express.js
+  
 - 🖼️ **Tiles Gallery**  
   HTML5, Tailwind CSS, Next.js, HeroUI, BetterAuth, MongoDB
 
