@@ -55,8 +55,11 @@
 
 ### 🚀 Featured Projects
 
+- 💼 **AlignTask - A full-stack role-based freelancing platform**  
+  HTML5, Tailwind CSS, Next.js, HeroUI, Node.js, BetterAuth, MongoDB, Express.js, Stripe, JWT
+
 - 🖼️ **AimArena - A full-stack Sports Facility Booking Platform**  
-  HTML5, Tailwind CSS, Next.js, HeroUI, BetterAuth, MongoDB, Express.js
+  HTML5, Tailwind CSS, Next.js, HeroUI, BetterAuth, MongoDB, Express.js, JWT
   
 - 🖼️ **Tiles Gallery**  
   HTML5, Tailwind CSS, Next.js, HeroUI, BetterAuth, MongoDB
