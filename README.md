@@ -73,6 +73,4 @@
 - 🍱 **English Janala**  
   HTML, Tailwind CSS, JavaScript, DOM
 
-- 📚 **Payoo Mobile App**  
-  HTML, Tailwind CSS, JavaScript, DOM
 ---
