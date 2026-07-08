@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;PHP+%26+MySQL+Developer;Next.js+%26+MongoDB+Developer;Building+Real+World+Projects" 
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;Next.js+%26+MongoDB+Developer;Building+Real+World+Projects" 
     alt="Typing SVG" 
   />
 </p>
@@ -13,8 +13,8 @@
 
 ### 🚀 About Me
 - 🎓 CSE Student from Bangladesh  
-- 🌱 Currently learning **Next.js, MongoDB, Backend Development**  
-- 💬 Ask me about **React, JavaScript**  
+- 🌱 Currently learning **Backend Development, TypeScipt**  
+- 💬 Ask me about **Next.js, Node.js, MongoDB, React, JavaScript**  
 - 🎯 Goal: Become a **Full Stack + AI Developer**  
 - ⚡ I enjoy building real-world projects
 
