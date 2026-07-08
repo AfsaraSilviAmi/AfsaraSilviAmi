@@ -1,22 +1,26 @@
 <img src="GithubBanner.jpg" width="100%" />
 <h1 align="center">Hi 👋, I'm Afsara Silvi Ami</h1>
-<h3 align="center">💻 Aspiring Web Developer | CSE Student from Bangladesh</h3>
+<h3 align="center">💻 MERN Stack Developer | CSE Student from Bangladesh</h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;Next.js+%26+MongoDB+Developer;Building+Real+World+Projects" 
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;Next.js+Developer;Building+Real-World+Projects" 
     alt="Typing SVG" 
   />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 CSE Student from Bangladesh  
-- 🌱 Currently learning **Backend Development, TypeScipt**  
-- 💬 Ask me about **Next.js, Node.js, MongoDB, React, JavaScript**  
-- 🎯 Goal: Become a **Full Stack + AI Developer**  
-- ⚡ I enjoy building real-world projects
+### 👩‍💻 About Me
+
+I am a Computer Science graduate and passionate MERN Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I primarily work with React, Next.js, and the MERN stack to create real-world projects. I love learning new technologies and continuously improving my development skills.
+
+## 🌱 Current Activities
+
+- 🔭 Currently working on full-stack web applications
+- 🌱 Learning **Backend Development** and **TypeScript**
+- 💡 Exploring advanced features of **Next.js** and the **MERN Stack**
+- 🚀 Building real-world projects to strengthen my development skills
 
 ---
 
