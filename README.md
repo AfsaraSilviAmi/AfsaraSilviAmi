@@ -82,20 +82,21 @@ I am a Computer Science graduate and passionate MERN Stack Developer who enjoys 
 - 🖼️ **Tiles Gallery**  
   HTML5, Tailwind CSS, Next.js, HeroUI, BetterAuth, MongoDB
 
-- 👤 **Kin Keeper**  
-  HTML%, Tailwind CSS, DaisyUI, React
-
-- 🏥 **DigiTools**  
-  HTML, Tailwind CSS, DaisyUI, JavaScript (ES6), React
-
-- 🍱 **English Janala**  
-  HTML, Tailwind CSS, JavaScript, DOM
-
 ---
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AfsaraSilviAmi&theme=github" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfsaraSilviAmi&theme=github" width="100%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfsaraSilviAmi&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfsaraSilviAmi&theme=github" />
+</p>
+
+
